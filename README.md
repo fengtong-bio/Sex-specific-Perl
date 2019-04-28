@@ -2,7 +2,7 @@
 Rapid identification of sex-specific DNA fragments in Acipenseridae using comparative genomics with high-throughput sequencing
 
 
-**   depth_filtrate.pl**
+   depth_filtrate.pl
    
       perl depth_filtrate.pl mF.file.list 2 20 > outfile
    
