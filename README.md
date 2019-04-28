@@ -3,9 +3,13 @@ Rapid identification of sex-specific DNA fragments in Acipenseridae using compar
 
 
    depth_filtrate.pl
+   
    usage : perl depth_filtrate.pl mF.file.list 2 20 > outfile
+   
       mF.file.list is the ctg name from soapdenovo list file, only ctg name.
+      
       2 means calculate site.
+      
       20 means 20 sample`s depth have to > 0.
       
    fq2.pl
